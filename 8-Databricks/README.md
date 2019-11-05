@@ -1,8 +1,10 @@
 # OCP-AI-Links DATABRICKS
 ## Level 100 - Conversational Understanding
 * **Overview**
+  * https://azure.microsoft.com/en-us/services/databricks/
+  * Products overview page
   * https://docs.microsoft.com/en-us/azure/azure-databricks/
-  * Explore All the "cards" on the right  
+  * Explore all the "cards" on the right  
 
 
 ## Level 200 - Hands On Understanding
