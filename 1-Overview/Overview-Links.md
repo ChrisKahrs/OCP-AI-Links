@@ -5,7 +5,7 @@ Public facing AI training/understanding/enablement links.
     * https://azure.microsoft.com/en-us/
     * This is the main landing page and gives a good overview of Azure All Up
     * Explore Tab: Overview
-    * Explore Tab: Solutions (AI Platform, Industry, Solution Architectures)
+    * Explore Tab: Solutions (AI Platform, Industry, Reference Architectures)
     * Explore Tab: Products (AI + Machine Learning)
     * Explore Tab: Documentation (Products then AI + Machine Learning)
     * Explore Tab: Pricing (Pricing by Product)
@@ -32,16 +32,23 @@ Public facing AI training/understanding/enablement links.
 * **Other Good Azure ML Learning Links**
   * https://www.linkedin.com/learning/
   * https://academy.databricks.com/
+  * https://channel9.msdn.com/Shows/AI-Show	
+  * VILT Pointers
 
-* **
+* **Government Specific Info**
+  * https://docs.microsoft.com/en-us/azure/azure-government/documentation-government-services-aiandcognitiveservices 
+
+
 * Most Recent Build Videos (spring)
 * Most Recent Ignite Videos (fall)
 * 
 * Basic Cognitive Services Demo
   * Website
-  * Intelligent Kiosk
+  * https://aka.ms/kioskapp 
+  * Intelligent Kiosk (alos in github)
     * Q/A Maker, Bots
 * Basic Cognitive Search (Knowledge Mining) Demo
+  * https://docs.microsoft.com/en-us/azure/search/ 
   * JFK Files
   * Wolters Kluwer
   * Forms Recognizer
@@ -51,26 +58,10 @@ Public facing AI training/understanding/enablement links.
   * Notebook
 * Basic Databricks Demo
 * Postman Demo
+  * https://getpostman.com 
 
 
 
 
-	• https://docs.microsoft.com/en-us/azure/azure-government/documentation-government-services-aiandcognitiveservices 
 
-	• https://docs.microsoft.com/en-us/azure/search/ (knowledge store)
 	
-	• https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk
-		• https://www.microsoft.com/en-us/p/intelligent-kiosk/9nblggh5qd84?SilentAuth=1#activetab=pivot:overviewtab
-	
-	• https://academy.microsoft.com/en-us/professional-program/
-		○ /
-		
-	• 
-	• 
-	• https://channel9.msdn.com/Shows/AI-Show
-	• https://blogs.microsoft.com/ai/
-	
-	• https://blogs.microsoft.com/ai/this-week-in-machine-learning-podcast/
-	• https://www.linkedin.com/learning/
-	• 
-https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/
