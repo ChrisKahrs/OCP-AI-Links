@@ -89,7 +89,7 @@ Public facing AI training/understanding/certification/enablement links.
 * **Basic Postman Demo**
   * https://getpostman.com 
 
-
+Thank you!
 
 
 
