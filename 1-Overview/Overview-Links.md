@@ -57,13 +57,17 @@ Public facing AI training/understanding/certification/enablement links.
 * **Government Specific Info**
   * https://docs.microsoft.com/en-us/azure/azure-government/documentation-government-services-aiandcognitiveservices 
 
-
 * **Most Recent Build Videos (spring)**
   * https://mybuild.techcommunity.microsoft.com/sessions/76980?source=sessions#top-anchor 
     * Eric Boyd, VP AI.  Azure AI: Making AI real for every developer and every organization
 * **Most Recent Ignite Videos (fall)**
   * https://myignite.techcommunity.microsoft.com/sessions/81277?source=sessions
     * Eric Boyd, VP AI.  Azure AI: Powering new possibilities for every organization
+
+* **Solid Github Repo Resources**
+  * https://github.com/Microsoft 
+  * https://github.com/Azure
+  * https://github.com/Azure-Samples
 
 
 
