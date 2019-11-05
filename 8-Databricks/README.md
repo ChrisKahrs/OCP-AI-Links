@@ -2,9 +2,9 @@
 ## Level 100 - Conversational Understanding
 * **Overview**
   * https://azure.microsoft.com/en-us/services/databricks/
-  * Products overview page
+    * Products overview page
   * https://docs.microsoft.com/en-us/azure/azure-databricks/
-  * Explore all the "cards" on the right  
+    * Explore all the "cards" on the right  
 
 
 ## Level 200 - Hands On Understanding
