@@ -1,4 +1,4 @@
-# Overview Links for All Up Microsoft Azure AI
+# OCP Understanding Progression (**UP**) Level 100: Microsoft Azure AI
 Public facing AI training/understanding/enablement links.  
 
 * **Start Here**
