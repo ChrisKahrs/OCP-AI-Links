@@ -1,4 +1,5 @@
-# OCP Understanding Progression (**UP**) Level 100: Microsoft Azure AI
+# OCP Understanding Progression (**UP**)
+## Microsoft Azure AI: Level 100
 Public facing AI training/understanding/enablement links.  
 
 * **Start Here**
@@ -66,7 +67,9 @@ Public facing AI training/understanding/enablement links.
 
 
 
-# Basic Demos (100 level) of Individual Topics
+
+
+## Basic Demos (100 level) of Individual Topics
 * **Basic Cognitive Services & Bots (Apps and Agents) Demo**
   * https://aka.ms/cognitive 
   * https://aka.ms/kioskapp 
