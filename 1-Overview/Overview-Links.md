@@ -1,4 +1,4 @@
-# Overview Links for all Microsoft Azure AI
+# Overview Links for All Up Microsoft Azure AI
 Public facing AI training/understanding/enablement links.  
 
 * **Start Here**
@@ -13,14 +13,14 @@ Public facing AI training/understanding/enablement links.
       * Explore Tab: All the others, focus on "More" (Trusted)
   
 * **Getting a Look at the Azure Portal**
-    * http://portal.azure.com
-      * The portal is the window into all things Azure
-      * Explore all the items in the Portal Menu (Pancake Top Left) 
+  * http://portal.azure.com
+    * The portal is the window into all things Azure
+    * Explore all the items in the Portal Menu (Pancake Top Left) 
   
 * **Certifications**
   * https://docs.microsoft.com/en-us/learn/ 
     * This is a great entry point to all things Learning Path (by Role) and Certification (by Role)
-  * VILT Pointers
+  * Pre-Recorded VILT (Virtual Instructor Lead Training) Pointers
     * https://note.microsoft.com/CatalogueDisplayPage-MPW0009290_CatalogDisplayPage1.html
       * AI-100 Designing and Implementing an Azure AI Solution
     * https://note.microsoft.com/CatalogueDisplayPage-SRDEM1652_CatalogDisplayPage1.html
@@ -43,7 +43,7 @@ Public facing AI training/understanding/enablement links.
   * https://www.linkedin.com/learning/
   * https://academy.databricks.com/
   * https://channel9.msdn.com/Shows/AI-Show	
-  * Pre-Recorded VILT Pointers
+  * Pre-Recorded VILT (Virtual Instructor Lead Training) Pointers
     * https://note.microsoft.com/MPW0009301-CLE_CatalogDisplayPage.html
       * Azure Machine Learning
     * https://note.microsoft.com/CatalogueDisplayPage-SRDEM1823_CatalogDisplayPage1.html
@@ -64,7 +64,9 @@ Public facing AI training/understanding/enablement links.
   * https://myignite.techcommunity.microsoft.com/sessions/81277?source=sessions
     * Eric Boyd, VP AI.  Azure AI: Powering new possibilities for every organization
 
-# Basic Demos (100 level) of individual topics
+
+
+# Basic Demos (100 level) of Individual Topics
 * **Basic Cognitive Services & Bots (Apps and Agents) Demo**
   * https://aka.ms/cognitive 
   * https://aka.ms/kioskapp 
@@ -78,7 +80,7 @@ Public facing AI training/understanding/enablement links.
   * https://docs.microsoft.com/en-us/azure/machine-learning/
     * Designer
     * Automated ML
-    * Notebook
+    * Notebooks
 * **Basic Databricks Demo**
   * https://docs.microsoft.com/en-us/azure/azure-databricks/
 * **Basic Postman Demo**
