@@ -5,8 +5,8 @@ A repository created by US OCP for public facing AI training links.
 
 | Times (day 1) | Length |  Topics                    |
 |:-------------:|:------:|:--------------------------:|
-| 8:30a-9:00a   | 0:30   |Welcome, Opening Comments   |
-| 9:00a-10:15a  | 1:15   |Azure AI Overview           |
+| 8:30a-8:45a   | 0:15   |Welcome, Opening Comments   |
+| 8:45a-10:15a  | 1:30   |Azure AI Overview           |
 | 10:15a-10:30a | 0:15   |**Break**                   |
 | 10:30a-12:00p | 1:30   |Cogntive Services           |
 | 12:00p-12:30p | 0:30   |**Lunch Break**             |
