@@ -15,7 +15,7 @@ A repository created by US OCP for public facing AI training links.
 | 2:15p-3:45p   | 1:30   |Bots (Agents)               |
 | 3:45p-4:00p   | 0:15   |Day Wrap Up, Q/A and Debrief|
 
-______________________________
+*
 
 | Times (day 2) | Length |  Topics                        |
 |:-------------:|:------:|:------------------------------:|
