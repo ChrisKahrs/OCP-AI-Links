@@ -25,6 +25,10 @@ A repository created by US OCP for public facing AI training links.
 | 11:45a-12:15p | 0:30   |**Lunch Break**                 |
 | 12:15p-1:45p  | 1:30   |Machine Learning - Notebooks    |
 | 1:45p-2:00p   | 0:15   |**Break**                       |
-| 2:00p-3:30p   | 1:30   |Databricks                      |
+| 2:00p-3:30p   | 1:30   |Azure Databricks                |
 | 3:30p-4:00p   | 0:30   |Overall Wrap Up, Q/A and Debrief|
 
+
+
+Content Owner: Chris Kahrs (ckahrs@microsoft.com)
+Update Date: 2019.11.6
