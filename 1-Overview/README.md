@@ -16,7 +16,7 @@ Public facing AI training/understanding/certification/enablement links.
 * **Getting a Look at the Azure Portal**
   * http://portal.azure.com
     * The portal is the window into all things Azure
-    * Explore all the items in the Portal Menu (Pancake Top Left) 
+    * Explore all the items in the Portal Menu ("Hamburger" Top Left) 
   
 * **Certifications**
   * https://docs.microsoft.com/en-us/learn/ 

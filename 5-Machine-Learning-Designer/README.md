@@ -10,10 +10,14 @@ A repository created by US OCP for public facing AI training links.
 
 
 ## Level 200 - Hands On Understanding
-* **Knowledge Mining Bootcamp**
-    * https://aka.ms/kmb 
-* **Microsoft Learining Path Introduction to Azure Search- Perform data engineering with Azure Databricks**
-  * https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-search/
+* https://docs.microsoft.com/en-us/azure/machine-learning/service/tutorial-designer-automobile-price-train-score
+* https://docs.microsoft.com/en-us/azure/machine-learning/service/tutorial-designer-automobile-price-deploy
+
+* 
+    * Titanic Dataset From Kaggle
+* https://github.com/Azure/carprice/tree/master/powerbi
+    * PowerBI using ML Demo
+    * 
 
 
 ## Level 300 - Challenged Based Understanding
