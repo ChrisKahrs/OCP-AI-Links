@@ -7,19 +7,19 @@
 * https://myignite.techcommunity.microsoft.com/sessions/84507?source=sessions
     * Video of tool
 
-* Content Owner: Chris Kahrs (ckahrs@microsoft.com)
+* Content Owner: Chris Kahrs (ckahrs@microsoft.com)<br>
 * Update Date: 2019.11.6
 
 ## Azure Synapse
 
 * https://azure.microsoft.com/en-us/services/synapse-analytics/
 
-* Content Owner: Chris Kahrs (ckahrs@microsoft.com)
+* Content Owner: Chris Kahrs (ckahrs@microsoft.com) <br>
 * Update Date: 2019.11.6
 
 ## MLOps
 
 * 
 
-* Content Owner: Chris Kahrs (ckahrs@microsoft.com)
+* Content Owner: Chris Kahrs (ckahrs@microsoft.com)<br>
 * Update Date: 2019.11.6

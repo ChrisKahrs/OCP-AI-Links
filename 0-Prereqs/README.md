@@ -13,4 +13,7 @@
   * https://code.visualstudio.com/docs/introvideos/basics
     * Getting started with Visual Studio Code
 
+Thank you!
 
+Content Owner: Claire Rehfuss (claire.rehfuss@microsoft.com)<br>
+Update Date: 2019.11.6
