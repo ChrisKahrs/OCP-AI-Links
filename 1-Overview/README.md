@@ -43,6 +43,7 @@ Public facing AI training/understanding/certification/enablement links.
 * **Other Good Azure ML Learning Links**
   * https://www.linkedin.com/learning/
   * https://academy.databricks.com/
+  * https://microsoftcloudworkshop.com/
   * https://channel9.msdn.com/Shows/AI-Show	
   * Pre-Recorded VILT (Virtual Instructor Lead Training) Pointers
     * https://note.microsoft.com/MPW0009301-CLE_CatalogDisplayPage.html

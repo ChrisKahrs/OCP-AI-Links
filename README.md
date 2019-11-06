@@ -1,6 +1,8 @@
 # OCP-AI-Links
 A repository created by US OCP for public facing AI training links.  
 
+Can be accessed via: https://aka.ms/RestonNov2019AI 
+
 ## Standard Agenda (2 day)
 
 | Times (day 1) | Length |  Topics                    |
@@ -30,5 +32,5 @@ A repository created by US OCP for public facing AI training links.
 
 
 
-Content Owner: Chris Kahrs (ckahrs@microsoft.com)
+Content Owner: Chris Kahrs (ckahrs@microsoft.com)<br>
 Update Date: 2019.11.6
