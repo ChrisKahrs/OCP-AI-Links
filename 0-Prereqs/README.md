@@ -1,8 +1,8 @@
 # OCP-AI-Links PREREQS
 **Required**
 * A computer with access to the internet sites:
-  * microsoft.com
-  * github.com
+  * http://www.microsoft.com
+  * https://www.github.com
 * Access to https://portal.azure.com/ with permission to create services
   * Create a free account here: https://azure.microsoft.com/en-us/free/
 

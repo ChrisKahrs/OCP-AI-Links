@@ -3,26 +3,22 @@ A repository created by US OCP for public facing AI training links.
 
 ## Level 100 - Conversational Understanding
 * **Overview**
-  * https://azure.microsoft.com/en-us/services/databricks/
+  * https://azure.microsoft.com/en-us/services/search/ 
     * Products overview page
-  * https://docs.microsoft.com/en-us/azure/azure-databricks/
+  * https://docs.microsoft.com/en-us/azure/search/
     * Explore all the "cards" on the right  
 
 
 ## Level 200 - Hands On Understanding
 * **Knowledge Mining Bootcamp**
     * https://aka.ms/kmb 
-* **Microsoft Learining Path - Perform data engineering with Azure Databricks**
-  * https://docs.microsoft.com/en-us/learn/paths/data-engineering-with-databricks/ 
-    * Perform data engineering with Azure Databricks
-    * This learning path contains the following modules:
+* **Microsoft Learining Path - Introduction to Azure Search**
+  * https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-search/
 
 
 ## Level 300 - Challenged Based Understanding
-* https://github.com/microsoft/WhatTheHack/tree/master/008-DatabricksIntroML
-  * What the Hack Based Challenge
-* https://github.com/annedroid/Ready2019_AA_AI319
-  * Advanced Databricks Challenge
+* **Open Hack for Knowledge Mining**
+    * https://openhack.microsoft.com/ 
 
 
 Thank you!
