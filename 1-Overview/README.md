@@ -69,6 +69,7 @@ Public facing AI training/understanding/certification/enablement links.
   * https://github.com/Microsoft 
   * https://github.com/Azure
   * https://github.com/Azure-Samples
+  * https://github.com/Microsoft/AIReferenceArchitectures
 
 
 
