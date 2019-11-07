@@ -16,7 +16,7 @@ Public facing AI training/understanding/certification/enablement links.
 * **Getting a Look at the Azure Portal**
   * http://portal.azure.com
     * The portal is the window into all things Azure
-    * Explore all the items in the Portal Menu (Pancake Top Left) 
+    * Explore all the items in the Portal Menu ("Hamburger" Top Left) 
   
 * **Certifications**
   * https://docs.microsoft.com/en-us/learn/ 
@@ -43,6 +43,7 @@ Public facing AI training/understanding/certification/enablement links.
 * **Other Good Azure ML Learning Links**
   * https://www.linkedin.com/learning/
   * https://academy.databricks.com/
+  * https://microsoftcloudworkshop.com/
   * https://channel9.msdn.com/Shows/AI-Show	
   * Pre-Recorded VILT (Virtual Instructor Lead Training) Pointers
     * https://note.microsoft.com/MPW0009301-CLE_CatalogDisplayPage.html
@@ -68,6 +69,7 @@ Public facing AI training/understanding/certification/enablement links.
   * https://github.com/Microsoft 
   * https://github.com/Azure
   * https://github.com/Azure-Samples
+  * https://github.com/Microsoft/AIReferenceArchitectures
 
 
 
@@ -94,6 +96,9 @@ Public facing AI training/understanding/certification/enablement links.
   * https://getpostman.com 
 
 Thank you!
+
+Content Owner: Chris Kahrs (ckahrs@microsoft.com)<br>
+Update Date: 2019.11.6
 
 
 
