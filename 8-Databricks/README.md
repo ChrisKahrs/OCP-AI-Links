@@ -20,7 +20,7 @@
       * Perform advanced data transformation in Azure Databricks
       * Create data pipelines by using Databricks Delta
       * Work with streaming data in Azure Databricks
-      * Create data visualizations by using Azure Databricks and Power BI 2
+      * Create data visualizations by using Azure Databricks and Power BI 23
     * Entire Learning Path: 8 hours
   
 * **Microsoft Learning Path - Extract knowledge and insights from your data with Azure Databricks** 
