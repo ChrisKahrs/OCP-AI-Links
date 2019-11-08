@@ -27,6 +27,9 @@ Documentation page cognitive services APIs: https://docs.microsoft.com/en-us/azu
 
 ## Level 200 - Hands on Understanding
 
+**Calling with Postman**
+  - https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-call-api
+  
 **Custom Vision**:
   - Github walkthrough for a custom vision scenario: https://github.com/bartczernicki/ImageClassificationStateLicenses
   
@@ -40,8 +43,6 @@ Documentation page cognitive services APIs: https://docs.microsoft.com/en-us/azu
   - https://docs.microsoft.com/en-us/learn/paths/translate-speech-with-speech-services/
   - https://docs.microsoft.com/en-us/learn/paths/evaluate-text-with-language-services/
   
-## Level 300 - Challenge Based
-  
-  
+
 ## New Cognitive Service offerings (Ignite 2019)
 
