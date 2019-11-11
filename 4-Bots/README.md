@@ -29,9 +29,7 @@ Recommended Tutorials and Documentation
   - [BotFramework BotBuilder Github Repo](https://github.com/microsoft/botframework-sdk)
   - [BotFramework Composer](https://github.com/microsoft/BotFramework-Composer)
 
-## Level 300 - Challenged Based Understanding 
-
-**New Bot Features - Ignite 2019**
+#### New Bot Features - Ignite 2019
   - Bot Framework SDK 4.6 
   - Bot Framework Composer
   - Bot Service Direct Line Speech GA
