@@ -30,19 +30,14 @@ Documentation page cognitive services APIs: https://docs.microsoft.com/en-us/azu
 **Calling with Postman**
   - https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-call-api
   
-**Custom Vision**:
+**Custom Vision Lab**:
   - Github walkthrough for a custom vision scenario: https://github.com/bartczernicki/ImageClassificationStateLicenses
-  
-**Text and Speech**:
-
-  - Jupyter notebook that covers basic Natural Language Processing python scripts and Azure's Text Analytics, Speech to Text, and LUIS APIs: https://aka.ms/aiddtextlab
-  
+    
 **Azure Learning Paths***
-
-  - https://docs.microsoft.com/en-us/learn/paths/classify-images-with-vision-services/
-  - https://docs.microsoft.com/en-us/learn/paths/translate-speech-with-speech-services/
-  - https://docs.microsoft.com/en-us/learn/paths/evaluate-text-with-language-services/
+  - Cognitive Services Learn Landing page
+    - https://docs.microsoft.com/en-us/learn/browse/?products=azure-cognitive-services
+  - Specific modules
+    - https://docs.microsoft.com/en-us/learn/paths/classify-images-with-vision-services/
+    - https://docs.microsoft.com/en-us/learn/paths/translate-speech-with-speech-services/
+    - https://docs.microsoft.com/en-us/learn/paths/evaluate-text-with-language-services/
   
-
-## New Cognitive Service offerings (Ignite 2019)
-
