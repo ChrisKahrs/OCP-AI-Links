@@ -6,7 +6,7 @@
 
 Project page: https://azure.microsoft.com/en-us/services/cognitive-services/
 
-Documentation page cognitive services APIs: https://docs.microsoft.com/en-us/azure/cognitive-services/
+Documentation: https://docs.microsoft.com/en-us/azure/cognitive-services/
 
 
 
@@ -21,9 +21,6 @@ Documentation page cognitive services APIs: https://docs.microsoft.com/en-us/azu
 
   - [Speaker Recognition](https://azure.microsoft.com/en-us/services/cognitive-services/speaker-recognition/)
 
-
-**Video Overview**
-  - [Getting started with Azure Cognitive Services](https://youtu.be/MvDjbjB0Lsw)
 
 ## Level 200 - Hands on Understanding
 
