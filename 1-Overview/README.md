@@ -80,6 +80,7 @@ Public facing AI training/understanding/certification/enablement links.
   * https://aka.ms/cognitive 
   * https://aka.ms/kioskapp 
   * Intelligent Kiosk (also in github)
+  * https://aidemos.microsoft.com/
 * **Basic Cognitive Search (Knowledge Mining) Demo**
   * https://docs.microsoft.com/en-us/azure/search/ 
   * JFK Files
