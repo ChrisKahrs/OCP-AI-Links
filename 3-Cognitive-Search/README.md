@@ -9,6 +9,8 @@ A repository created by US OCP for public facing AI training links.
     * Explore all the "cards" on the right  
   * http://jfk-demo.azurewebsites.net/#/ 
     * Example from JFK Files
+  * http://wolterskluwereap.azurewebsites.net
+    * Example from Wolters Kluwer
 
 
 ## Level 200 - Hands On Understanding
