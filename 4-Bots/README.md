@@ -23,6 +23,9 @@ LUIS:
 Azure Learning Path - Create Intelligent Bots with the Azure Bot Service
   - https://docs.microsoft.com/en-us/learn/paths/create-bots-with-the-azure-bot-service/
 
+AI Business school learning path 
+https://aischool.microsoft.com/en-us/conversational/learning-paths
+
 Recommended Tutorials and Documentation
   - [Create a Q&A maker bot](https://docs.microsoft.com/en-us/azure/cognitive-services/QnAMaker/tutorials/create-publish-query-in-portal)
   - [Bot Template Virtual Assistant](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-virtual-assistant-introduction?view=azure-bot-service-4.0 ) 
