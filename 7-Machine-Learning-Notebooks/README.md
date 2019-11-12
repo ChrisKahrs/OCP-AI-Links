@@ -27,10 +27,6 @@ Level 200 – Hands-On Understanding
 
     -   <https://github.com/microsoft/bert-stack-overflow>
 
-  - **Basic Jupyter Notebooks how to**
-  
-    - https://docs.microsoft.com/en-us/azure/notebooks/tutorial-create-run-jupyter-notebook
-
 **Steps to setup Notebook VMs**
 
 -   Login to Azure ML studio, using its direct URL:
