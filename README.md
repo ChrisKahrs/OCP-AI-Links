@@ -1,4 +1,4 @@
-# OCP-AI-Links
+# OCP (One Commercial Partner) AI Links
 A repository created by US OCP for public facing AI training links.  
 
 Can be accessed via: https://aka.ms/RestonNov2019AI 
@@ -10,7 +10,7 @@ Can be accessed via: https://aka.ms/RestonNov2019AI
 | 8:30a-8:45a   | 0:15   |Welcome, Opening Comments   |
 | 8:45a-10:15a  | 1:30   |Azure AI Overview           |
 | 10:15a-10:30a | 0:15   |**Break**                   |
-| 10:30a-12:00p | 1:30   |Cognitive Services           |
+| 10:30a-12:00p | 1:30   |Cognitive Services          |
 | 12:00p-12:30p | 0:30   |**Lunch Break**             |
 | 12:30p-2:00p  | 1:30   |Cognitive Search (KM)       |
 | 2:00p-2:15p   | 0:15   |**Break**                   |

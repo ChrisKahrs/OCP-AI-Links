@@ -6,14 +6,15 @@
 * Access to https://portal.azure.com/ with permission to create services
   * Create a free account here: https://azure.microsoft.com/en-us/free/
 
-**Other Links**
+**Install Links**
 * Postman
   * https://getpostman.com
 * VS Code
   * https://code.visualstudio.com/docs/introvideos/basics
-    * Getting started with Visual Studio Code
+* Install Git
+  * https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 Thank you!
 
 Content Owner: Claire Rehfuss (claire.rehfuss@microsoft.com)<br>
-Update Date: 2019.11.6
+Update Date: 2019.11.10

@@ -7,6 +7,8 @@ A repository created by US OCP for public facing AI training links.
     * Products overview page
   * https://docs.microsoft.com/en-us/azure/search/
     * Explore all the "cards" on the right  
+  * http://jfk-demo.azurewebsites.net/#/ 
+    * Example from JFK Files
 
 
 ## Level 200 - Hands On Understanding

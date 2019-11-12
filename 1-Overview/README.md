@@ -1,4 +1,4 @@
-# OCP Understanding Progression (**UP**)
+# OCP - One Commercial Partner AI Links
 ## Microsoft Azure AI: Level 100
 Public facing AI training/understanding/certification/enablement links.  
 
@@ -98,7 +98,7 @@ Public facing AI training/understanding/certification/enablement links.
 Thank you!
 
 Content Owner: Chris Kahrs (ckahrs@microsoft.com)<br>
-Update Date: 2019.11.6
+Update Date: 2019.11.10
 
 
 
