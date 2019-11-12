@@ -27,6 +27,10 @@ Level 200 – Hands-On Understanding
 
     -   <https://github.com/microsoft/bert-stack-overflow>
 
+  - **Basic Jupyter Notebooks how to**
+  
+    - https://docs.microsoft.com/en-us/azure/notebooks/tutorial-create-run-jupyter-notebook
+
 **Steps to setup Notebook VMs**
 
 -   Login to Azure ML studio, using its direct URL:
@@ -42,6 +46,7 @@ Level 200 – Hands-On Understanding
         and NC-based VMs for GPU-workloads)
 
     -   Click **Create**. Creation should take approximately 5 minutes.
+    
 
 Level 300 - Challenged Based Understanding
 ------------------------------------------
