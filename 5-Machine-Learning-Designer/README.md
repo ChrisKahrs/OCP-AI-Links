@@ -3,9 +3,9 @@ A repository created by US OCP for public facing AI training links.
 
 ## Level 100 - Conversational Understanding
 * **Overview**
-  * https://azure.microsoft.com/en-us/services/search/ 
+  * https://azure.microsoft.com/en-us/services/machine-learning/
     * Products overview page
-  * https://docs.microsoft.com/en-us/azure/search/
+  * https://docs.microsoft.com/en-us/azure/machine-learning/
     * Explore all the "cards" on the right  
 
 
@@ -13,16 +13,21 @@ A repository created by US OCP for public facing AI training links.
 * https://docs.microsoft.com/en-us/azure/machine-learning/service/tutorial-designer-automobile-price-train-score
 * https://docs.microsoft.com/en-us/azure/machine-learning/service/tutorial-designer-automobile-price-deploy
 
-* 
-    * Titanic Dataset From Kaggle
-* https://github.com/Azure/carprice/tree/master/powerbi
-    * PowerBI using ML Demo
-    * 
+* A Basic Understanding
+    * Regression Tutorial
+    * Classification Tutorial
+    * Titanic Dataset Steps in MLStudio (Classic)
+        * Go to https://studio.azureml.net  
+        * Sign In
+        * At the bottom click "New", Then Dataset and upload the Titanic.csv file
+        * At the bottom click "New", add a new Experiment (Blank Experiment)
+        * On the left click "Saved DataSets", "My Datasets", then Titanic and drag onto canvas
+        
+
 
 
 ## Level 300 - Challenged Based Understanding
-* **Open Hack for Knowledge Mining**
-    * https://openhack.microsoft.com/ 
+* Nothing currently
 
 
 Thank you!
