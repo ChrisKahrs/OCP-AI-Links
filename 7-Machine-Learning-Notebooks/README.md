@@ -42,6 +42,7 @@ Level 200 – Hands-On Understanding
         and NC-based VMs for GPU-workloads)
 
     -   Click **Create**. Creation should take approximately 5 minutes.
+    
 
 Level 300 - Challenged Based Understanding
 ------------------------------------------

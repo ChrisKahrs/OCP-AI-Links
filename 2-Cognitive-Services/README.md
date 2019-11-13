@@ -26,15 +26,17 @@ Documentation: https://docs.microsoft.com/en-us/azure/cognitive-services/
 
 **Calling with Postman**
   - https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-call-api
-  
-**Custom Vision Lab**:
-  - Github walkthrough for a custom vision scenario: https://github.com/bartczernicki/ImageClassificationStateLicenses
-    
-**Azure Learning Paths***
+ 
+**Azure Learning Paths**
   - Cognitive Services Learn Landing page
     - https://docs.microsoft.com/en-us/learn/browse/?products=azure-cognitive-services
   - Specific modules
     - https://docs.microsoft.com/en-us/learn/paths/classify-images-with-vision-services/
     - https://docs.microsoft.com/en-us/learn/paths/translate-speech-with-speech-services/
     - https://docs.microsoft.com/en-us/learn/paths/evaluate-text-with-language-services/
+    
+**Custom Vision Lab**:
+  - Github walkthrough for a custom vision scenario: https://github.com/bartczernicki/ImageClassificationStateLicenses
+    
+
   

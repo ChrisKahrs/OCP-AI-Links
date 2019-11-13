@@ -31,9 +31,14 @@
 * Github Sample
 * https://github.com/chronicle17/DSDevOps 
 
+* MLOps Presentation available in MLOps folder
+
+* Azure DevOps Demo Generator for MLOps
+* https://azuredevopsdemogenerator.azurewebsites.net/ 
+    * Choose template > DevOps Labs > Azure Machine Learning to create your own project (Demo)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Content Owner: Jason Virtue (jason.virtue@microsoft.com)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Update Date: 2019.11.6
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Update Date: 2019.11.12
 
 ## Ethical AI
 * https://myignite.techcommunity.microsoft.com/sessions/81147?source=sessions
