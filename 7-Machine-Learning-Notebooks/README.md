@@ -16,6 +16,8 @@ Level 200 – Hands-On Understanding
 ----------------------------------
 - **Azure Machine Learning with Jupyter notebooks learning path**
     - https://docs.microsoft.com/en-us/learn/paths/intro-to-ml-with-python/
+    
+    - Remote compute: https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/12/10/microsoft-azure-notebooks-and-additional-compute-capacity-via-connecting-to-data-science-vms/
 
 -   **Azure Machine Learning Service Samples (2 Hours)**
 
