@@ -15,7 +15,7 @@ Portal link: https://ml.azure.com
 
 tutorial: https://docs.microsoft.com/en-us/azure/machine-learning/service/tutorial-first-experiment-automated-ml
 
-*note: You will need to have an Enterprise level Machine Learning Studio resource (currently in preview, with no added cost)
+*note: You will need to have an Enterprise level Machine Learning Studio resource (currently in preview, with no added cost)*
 
 
 **FAQ's**
