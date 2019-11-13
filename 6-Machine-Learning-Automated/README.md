@@ -18,20 +18,6 @@ tutorial: https://docs.microsoft.com/en-us/azure/machine-learning/service/tutori
 
 *data explanation for the dataset of the above tutorial: https://archive.ics.uci.edu/ml/datasets/Bank%2BMarketing*
 
-
-**FAQ's**
-  - What algorithms is it trying?
-    - https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-configure-auto-train#select-your-experiment-type
-
-  - What preprocessing is it trying?
-    - https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-automated-ml#preprocessing
-    
-  - Ok, but what preprocessing is it trying in *normal language*?
-    - https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-create-portal-experiments#advanced-preprocessing-options
-  
-  - What are all these charts and metrics?
-    - https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-understand-automated-ml#classification
-     
 **Github Python examples**
 
 https://github.com/azure/machinelearningnotebooks
@@ -44,3 +30,16 @@ https://github.com/azure/machinelearningnotebooks
 **Research Paper**
 - https://arxiv.org/abs/1705.05355
 
+## **Automated ML FAQ's** *
+  - *What algorithms is it trying?*
+    - https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-configure-auto-train#select-your-experiment-type
+
+  - *What preprocessing is it trying?*
+    - https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-automated-ml#preprocessing
+    
+  - *Ok, but what preprocessing is it trying in **normal language**?*
+    - https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-create-portal-experiments#advanced-preprocessing-options
+  
+  - *What are all these charts and metrics?*
+    - https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-understand-automated-ml#classification *
+     
