@@ -14,6 +14,8 @@ Level 100 - Conversational Understanding
 
 Level 200 – Hands-On Understanding
 ----------------------------------
+- **Azure Machine Learning with Jupyter notebooks learning path**
+    - https://docs.microsoft.com/en-us/learn/paths/intro-to-ml-with-python/
 
 -   **Azure Machine Learning Service Samples (2 Hours)**
 
