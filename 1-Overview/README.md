@@ -65,6 +65,10 @@ Public facing AI training/understanding/certification/enablement links.
   * https://myignite.techcommunity.microsoft.com/sessions/81277?source=sessions
     * Eric Boyd, VP AI.  Azure AI: Powering new possibilities for every organization
 
+* **Responsible and Ethical AI**
+  * Tools and Weapons: The Promise and the Peril of the Digital Age (Hardcover)
+    * Published September 10th 2019 by Penguin Press 
+
 * **Solid Github Repo Resources**
   * https://github.com/Microsoft 
   * https://github.com/Azure

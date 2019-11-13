@@ -22,6 +22,13 @@ A repository created by US OCP for public facing AI training links.
         * At the bottom click "New", Then Dataset and upload the Titanic.csv file
         * At the bottom click "New", add a new Experiment (Blank Experiment)
         * On the left click "Saved DataSets", "My Datasets", then Titanic and drag onto canvas
+          * Visualize the dataset by (right clicking, then "dataset", then "visualize")
+          * Examine Columns and Row stats
+        * Rename the experiment "Titanic_(something)"
+        * In the search box "Select Columns in Dataset", drag under csv
+          * Connect the two
+          * Click Select Columns and select all but "Name, Cabin and Ticket"
+        * In the search box "Edit Metadata"
         
 
 
