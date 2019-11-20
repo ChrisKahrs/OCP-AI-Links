@@ -14,7 +14,7 @@ Can be accessed via: https://aka.ms/RestonNov2019AI
 | 12:00p-12:30p | 0:30   |**Lunch Break**             |
 | 12:30p-2:00p  | 1:30   |Cognitive Search (KM)       |
 | 2:00p-2:15p   | 0:15   |**Break**                   |
-| 2:15p-3:45p   | 1:30   |Bots (Agents)               |
+| 2:15p-3:45p   | 1:30   |Azure Databricks            |
 | 3:45p-4:00p   | 0:15   |Day Wrap Up, Q/A and Debrief|
 
 *
@@ -27,7 +27,7 @@ Can be accessed via: https://aka.ms/RestonNov2019AI
 | 11:45a-12:15p | 0:30   |**Lunch Break**                 |
 | 12:15p-1:45p  | 1:30   |Machine Learning - Notebooks    |
 | 1:45p-2:00p   | 0:15   |**Break**                       |
-| 2:00p-3:30p   | 1:30   |Azure Databricks                |
+| 2:00p-3:30p   | 1:30   |Bots (Agents)                   |
 | 3:30p-4:00p   | 0:30   |Overall Wrap Up, Q/A and Debrief|
 
 
