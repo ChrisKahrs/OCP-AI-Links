@@ -37,6 +37,8 @@ Documentation: https://docs.microsoft.com/en-us/azure/cognitive-services/
     
 **Custom Vision Lab**:
   - Github walkthrough for a custom vision scenario: https://github.com/bartczernicki/ImageClassificationStateLicenses
-    
+
+**Cognitive Services Under Development**
+  - These are some of the API's that are currently being tested and developed: https://www.microsoft.com/en-us/research/group/cognitive-research/
 
   
