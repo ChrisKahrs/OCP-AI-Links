@@ -56,7 +56,9 @@ Public facing AI training/understanding/certification/enablement links.
       * Introduction to Azure IoT
 
 * **Government Specific Info**
-  * https://docs.microsoft.com/en-us/azure/azure-government/documentation-government-services-aiandcognitiveservices 
+  * https://docs.microsoft.com/en-us/azure/azure-government/documentation-government-services-aiandcognitiveservices
+  * Does *[insert service]* run on Azure Gov or is it roadmapped ? *
+  	* Check [here](https://azure.microsoft.com/en-us/global-infrastructure/services/?products=&regions=usgov-non-regional,us-dod-central,us-dod-east,usgov-arizona,usgov-iowa,usgov-texas,usgov-virginia ) 
 
 * **Most Recent Build Videos (spring)**
   * https://mybuild.techcommunity.microsoft.com/sessions/76980?source=sessions#top-anchor 
