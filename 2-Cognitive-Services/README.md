@@ -31,6 +31,7 @@ Documentation: https://docs.microsoft.com/en-us/azure/cognitive-services/
   - Cognitive Services Learn Landing page
     - https://docs.microsoft.com/en-us/learn/browse/?products=azure-cognitive-services
   - Specific modules
+    - https://docs.microsoft.com/en-us/learn/modules/classify-images-with-custom-vision-service/index
     - https://docs.microsoft.com/en-us/learn/paths/classify-images-with-vision-services/
     - https://docs.microsoft.com/en-us/learn/paths/translate-speech-with-speech-services/
     - https://docs.microsoft.com/en-us/learn/paths/evaluate-text-with-language-services/
