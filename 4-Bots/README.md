@@ -27,7 +27,7 @@ AI Business school learning path
   - https://aischool.microsoft.com/en-us/conversational/learning-paths
 
 Recommended Tutorials and Documentation
-  - [Create a Q&A maker bot](https://docs.microsoft.com/en-us/azure/cognitive-services/QnAMaker/tutorials/create-publish-query-in-portal)
+  - [Create a Knowledge Base](https://docs.microsoft.com/en-us/azure/cognitive-services/QnAMaker/tutorials/create-publish-query-in-portal) and [Publish to a Bot](https://docs.microsoft.com/en-us/azure/cognitive-services/QnAMaker/tutorials/create-qna-bot)
   - [Bot Template Virtual Assistant](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-virtual-assistant-introduction?view=azure-bot-service-4.0 ) 
   - [BotFramework BotBuilder Github Repo](https://github.com/microsoft/botframework-sdk)
   - [BotFramework Composer](https://github.com/microsoft/BotFramework-Composer)
