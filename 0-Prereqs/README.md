@@ -6,7 +6,7 @@
 * Access to https://portal.azure.com/ with permission to create services
   * Create a free account here: https://azure.microsoft.com/en-us/free/
 
-**Install Links**
+**Install Links **
 * Postman
   * https://getpostman.com
 * VS Code
